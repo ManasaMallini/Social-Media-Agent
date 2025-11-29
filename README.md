@@ -1,2 +1,20 @@
-# Social-Media-Agent
-The AI Social Media Agent automatically generates creative content such as captions, hashtags, content ideas, rewritten posts, and 7-day content plans for platforms like Instagram, LinkedIn, Facebook, YouTube, and Twitter. It helps users create professional and engaging social media posts instantly using OpenAI models.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/drive/1PZP2VlfFxM2P3bO1AmHiNjpnJUuB7ge8
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
